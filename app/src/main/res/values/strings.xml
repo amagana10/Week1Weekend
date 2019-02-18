@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week1Weekend</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="button_pi"> &#928;</string>
+</resources>
